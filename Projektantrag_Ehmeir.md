@@ -23,7 +23,6 @@ Die Kommunikation zwischen Spielern verbessern und das Design übersichtlicher u
 
 * Einfachere Verwendung
 * Neues übersichtlicheres Design
-* Mehr
 * Neue Technologien
 * Lernen einer Projekdurchführung
 
