@@ -1,32 +1,36 @@
-# Projektantrag
+# Projektantrag: Project Mind Palace
 
  ## *von Lorenz Gruber, Simon Ittensammer und Franziskus Ehmeir*
 
 ### Ausgangssituation
-Oft versucht man sich an etwas zu erinnern oder würde gerne etwas Genaues
-wissen.
+
 Ob in einem Gespräch oder beim Arbeiten wäre mehr Wissen meist sehr
 hilfreich.
+Man möchte etwas zu einem Schlagwort erfahren, etwas Genaueres zu einem
+Thema wissen oder sich an etwas erinnern, was einem momentan
+nicht einfällt.
 
 
 ### Problemstellung
 
-* Wenig Zeit zu lernen
-* Kein Know-how bei Gesprächen
 * Fehlendes Wissen
+* Kein Know-how bei Gesprächen
+* Wenig Zeit zu lernen
+
 
 ### Aufgabenstellung
 
-Ein kleines portebales System entwickeln mit Hilfe eines Bluetooth-Kopfhörers,
+Ein kleines portables System entwickeln mit Hilfe eines Bluetooth-Kopfhörers,
 einem Microchip und einer Speech API (z.B. Google Speech), das ermöglicht,
 nach einem gesprochenen Wort in einer Textdatei zu suchen und dem Benutzer
-einer kurze Erklärung bzw. Definition durch den Kopfhörer auszugeben.
+eine kurze Erklärung bzw. Definition durch den Kopfhörer auszugeben.
 
 ### Nutzen
 
 * Einfachere Verwendung
 * Neue Technologien
 * Wissen 2 Go
+* "Konversationslexikon"
 
 ### Konsequenzen bei Nichtdurchführung
 
